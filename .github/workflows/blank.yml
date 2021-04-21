@@ -33,8 +33,9 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const data = require('./javaPatchNotes.json')
-            fs.writeFileSync('./javaPatchNotes.json', JSON.stringify(data, null, 2))
+            console.log(fs.readdirSync('.'))
+            const data = require('javaPatchNotes.json')
+            fs.writeFileSync('javaPatchNotes.json', JSON.stringify(data, null, 2))
       
       - uses: stefanzweifel/git-auto-commit-action@v4
       
