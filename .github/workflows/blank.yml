@@ -23,10 +23,20 @@ jobs:
       # Runs a single command using the runners shell
       - name: delete old
         run: rm -Rf javaPatchNotes.json
-
+        
       # Runs a set of commands using the runners shell
       - name: get new
         run: wget https://launchercontent.mojang.com/javaPatchNotes.json
+      
+      - name: 'Comment on PR'
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const data = require('./javaPatchNotes.json')
+            fs.rm('./javaPatchNotes.json')
+            fs.writeFileSync('./javaPatchNotes.json', JSON.stringify(data, null, 2))
       
       - uses: stefanzweifel/git-auto-commit-action@v4
       
