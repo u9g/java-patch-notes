@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17 Pre-Release 4",
+      "type": "snapshot",
+      "version": "1.17-pre4",
+      "image": {
+        "url": "/images/2Ko1BjxuG3lwWIpnOQq7UK-Minecraft1.17Pre-Release4.jpeg",
+        "title": "Minecraft 1.17 Pre-Release 4"
+      },
+      "body": "<p>The fourth pre-release for 1.17 is now available, and this one fixes a few additional bugs and crashes.</p>\n<h1>Changes in 1.17 Pre-Release 4</h1>\n<ul>\n<li>Holding down control while holding down space now makes the credits scroll even faster</li>\n</ul>\n<h1>The Caves &#x26; Cliffs Preview</h1>\n<p>Download the <a href=\"https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip\" target=\"_blank\" rel=\"noopener noreferrer\">latest datapack</a>.</p>\n<h1>Fixed bugs in 1.17 Pre-Release 4</h1>\n<ul>\n<li><a href=\"https://bugs.mojang.com/browse/MC-223552\" target=\"_blank\" rel=\"noopener noreferrer\">MC-223552</a> Credits not alphabetically ordered</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226690\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226690</a> In the credits, \"EXPERIS\" is in all capital letters for two employees</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226692\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226692</a> In the credits, a closing parenthesis is missing for Brian Canning</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226693\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226693</a> The credits say \"Wed Developers\" instead of \"Web Developers\" in one place</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226696\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226696</a> In the credits, \"TEN GUN DESIGN INC\" is in all capital letters for one employee</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226700\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226700</a> Some people are listed twice in the credits</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226702\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226702</a> The usage and punctuation of \"Inc.\" and \"LLC\" are inconsistent in the credits</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226762\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226762</a> Credits Text Wrapping</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226777\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226777</a> When a crossbow is loaded in the offhand, you cannot see it or shoot with it if an item is held in the main hand</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-227003\" target=\"_blank\" rel=\"noopener noreferrer\">MC-227003</a> Game crashed whilst debug profiling</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-227058\" target=\"_blank\" rel=\"noopener noreferrer\">MC-227058</a> Any hostility between animals is removed in peaceful</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-227092\" target=\"_blank\" rel=\"noopener noreferrer\">MC-227092</a> Experimental Settings confirmation prompt appears when creating any world in 1.17-pre3</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-227107\" target=\"_blank\" rel=\"noopener noreferrer\">MC-227107</a> C418 is removed from ==Composers== in credits.json</li>\n</ul>\n",
+      "id": "4JrNra9i0R2ZNivnAVUHjC",
+      "contentPath": "javaPatchNotes/4JrNra9i0R2ZNivnAVUHjC.json"
+    },
+    {
       "title": "Minecraft 1.17 Pre-Release 3",
       "type": "snapshot",
       "version": "1.17-pre3",
