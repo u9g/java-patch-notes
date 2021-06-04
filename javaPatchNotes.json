@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17 Release Candidate 1",
+      "type": "snapshot",
+      "version": "1.17-rc1",
+      "image": {
+        "url": "/images/1TWKaBPYqT20J0DY5MsT9K-Minecraft1.17ReleaseCandidate1.jpeg",
+        "title": "Minecraft 1.17 Release Candidate 1"
+      },
+      "body": "<p>We're now releasing the first (and hopefully only) release candidate for Caves &#x26; Cliffs: Part I. If there are no major issues following this release, no further changes will be done before the full release.</p>\n<p>Happy mining!</p>\n<h1>The Caves &#x26; Cliffs Preview</h1>\n<p>Download the <a href=\"https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip\" target=\"_blank\" rel=\"noopener noreferrer\">latest datapack</a>.</p>\n<h1>Fixed bugs in 1.17 Release Candidate 1</h1>\n<ul>\n<li><a href=\"https://bugs.mojang.com/browse/MC-227323\" target=\"_blank\" rel=\"noopener noreferrer\">MC-227323</a> Custom player heads sometimes flash when placed on armor stands</li>\n<li>Improved desync issues when exiting a boat over a high latency connection</li>\n<li>Fixed crashes</li>\n</ul>\n",
+      "id": "01mcsykWqYIkoV81QqlGBd",
+      "contentPath": "javaPatchNotes/01mcsykWqYIkoV81QqlGBd.json"
+    },
+    {
       "title": "Minecraft 1.17 Pre-Release 5",
       "type": "snapshot",
       "version": "1.17-pre5",
