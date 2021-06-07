@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17 Release Candidate 2",
+      "type": "snapshot",
+      "version": "1.17-rc2",
+      "image": {
+        "url": "/images/7cvFdnAlGlqnJwXfzdiQKb-Minecraft1.17ReleaseCandidate2.jpeg",
+        "title": "Minecraft 1.17 Release Candidate 2"
+      },
+      "body": "<h1>Fixed Bugs in 1.17 Release Candidate 2</h1>\n<ul>\n<li>Fixed a few critical issues</li>\n</ul>\n",
+      "id": "68Fe1mRWzE9zAArTt7wsuM",
+      "contentPath": "javaPatchNotes/68Fe1mRWzE9zAArTt7wsuM.json"
+    },
+    {
       "title": "Minecraft 1.17 Release Candidate 1",
       "type": "snapshot",
       "version": "1.17-rc1",
