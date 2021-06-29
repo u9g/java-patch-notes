@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17.1 Pre-Release 2",
+      "type": "snapshot",
+      "version": "1.17.1-pre2",
+      "image": {
+        "url": "/images/0j4bVu5PZHCHg7NEOjecP-Minecraft1.17.1Pre-Release2.jpeg",
+        "title": "Minecraft 1.17.1 Pre-Release 2"
+      },
+      "body": "<p>The second pre-release for 1.17.1 is now available in your launcher. This pre-release fixes a few more bugs.</p>\n<h1>The Caves &#x26; Cliffs Preview</h1>\n<p>Download the <a href=\"https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip\" target=\"_blank\" rel=\"noopener noreferrer\">latest datapack</a>.</p>\n<h1>Technical Changes in 1.17.1 Pre-release 1</h1>\n<ul>\n<li>Deaths of named mobs are now logged</li>\n</ul>\n<h1>Fixed Bugs in 1.17.1 Pre-Release 2</h1>\n<ul>\n<li><a href=\"https://bugs.mojang.com/browse/MC-219290\" target=\"_blank\" rel=\"noopener noreferrer\">MC-219290</a> Calcite is too quiet compared to other blocks</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-221656\" target=\"_blank\" rel=\"noopener noreferrer\">MC-221656</a> Creative mode obtained Bucket of Axolotl/Tropical Fish only spawns one kind axolotl/tropical fish</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-226926\" target=\"_blank\" rel=\"noopener noreferrer\">MC-226926</a> Emerald ore generates too often</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-228599\" target=\"_blank\" rel=\"noopener noreferrer\">MC-228599</a> Attempting to walk through flowing water constantly switches the player from swimming into normal mode</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229191\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229191</a> Diamond ore distribution changed between 1.16.5 and 1.17</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229441\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229441</a> You can steal the item a villager is holding for trade by killing it</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229614\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229614</a> Wandering Trader obtained tropical fish are only white kob</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229983\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229983</a> /clear command doesn't clear certain stacks after dropping items from them</li>\n</ul>\n",
+      "id": "cS879v3ZHHMBU3CQZeeft",
+      "contentPath": "javaPatchNotes/cS879v3ZHHMBU3CQZeeft.json"
+    },
+    {
       "title": "Minecraft 1.17.1 Pre-Release 1",
       "type": "snapshot",
       "version": "1.17.1-pre1",
