@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17.1 Pre-Release 3",
+      "type": "snapshot",
+      "version": "1.17.1-pre3",
+      "image": {
+        "url": "/images/2IcaEqPutAW1Ygg9TDm7Vw-Minecraft1.17.1Pre-Release3.jpeg",
+        "title": "Minecraft 1.17.1 Pre-Release 3"
+      },
+      "body": "<p>A third pre-release for 1.17.1 is now available in your launcher, fixing a few more crashes and bugs.</p>\n<h1>The Caves &#x26; Cliffs Preview</h1>\n<p>​\nDownload the <a href=\"https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip\" target=\"_blank\" rel=\"noopener noreferrer\">latest datapack</a>.\n​</p>\n<h1>Fixed bugs in 1.17.1 Pre-release 3</h1>\n<p>​</p>\n<ul>\n<li><a href=\"https://bugs.mojang.com/browse/MC-222731\" target=\"_blank\" rel=\"noopener noreferrer\">MC-222731</a> Captured axolotl constantly tries to leave water</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-224894\" target=\"_blank\" rel=\"noopener noreferrer\">MC-224894</a> Light tickets are released too early</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-228802\" target=\"_blank\" rel=\"noopener noreferrer\">MC-228802</a> Chunks not loading on a server / Cannot invoke \"cmq.a(int, int, int)\" because \"☃\" is null</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-228858\" target=\"_blank\" rel=\"noopener noreferrer\">MC-228858</a> Axolotls despawning though named and on leashes.</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229246\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229246</a> Piglins and piglin brutes no longer call other piglins after attacking one of them behind walls</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229475\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229475</a> Placing a small dripleaf results in the top half of water getting deleted</li>\n<li><a href=\"https://bugs.mojang.com/browse/MC-229887\" target=\"_blank\" rel=\"noopener noreferrer\">MC-229887</a> \"Unable to create a jar-filesystem\" warning logged upon starting the game</li>\n</ul>\n",
+      "id": "uQMGtEKGTlRMnh6dDan7a",
+      "contentPath": "javaPatchNotes/uQMGtEKGTlRMnh6dDan7a.json"
+    },
+    {
       "title": "Minecraft 1.17.1 Pre-Release 2",
       "type": "snapshot",
       "version": "1.17.1-pre2",
