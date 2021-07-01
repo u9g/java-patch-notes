@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17.1 Release Candidate 1",
+      "type": "snapshot",
+      "version": "1.17.1-rc1",
+      "image": {
+        "url": "/images/4KeM8UUnmyWSUeWujNfXUb-Minecraft1.17.1ReleaseCandidate1.jpeg",
+        "title": "Minecraft 1.17.1 Release Candidate 1"
+      },
+      "body": "<p>A first and hopefully only Release Candidate for Minecraft: Java Edition 1.17.1 is now available in the launcher, fixing a few more crashes and bugs. If nothing critical is found, we expect this to be released as the full version of 1.17.1 on Tuesday, July 6th.</p>\n<h1>The Caves &#x26; Cliffs Preview</h1>\n<p>Download the <a href=\"https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip\" target=\"_blank\" rel=\"noopener noreferrer\">latest datapack</a>.</p>\n<h1>Fixed bugs in 1.17.1 Release Candidate 1</h1>\n<ul>\n<li><a href=\"https://bugs.mojang.com/browse/MC-230716\" target=\"_blank\" rel=\"noopener noreferrer\">MC-230716</a> \"death.attack.dryout\" and \"death.attack.dryout.player\" display raw translation strings (are untranslated)</li>\n</ul>\n",
+      "id": "3XcgJ0ZyGtPzQFzIM0DCRg",
+      "contentPath": "javaPatchNotes/3XcgJ0ZyGtPzQFzIM0DCRg.json"
+    },
+    {
       "title": "Minecraft 1.17.1 Pre-Release 3",
       "type": "snapshot",
       "version": "1.17.1-pre3",
