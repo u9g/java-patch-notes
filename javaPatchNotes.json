@@ -2,6 +2,18 @@
   "version": 1,
   "entries": [
     {
+      "title": "Minecraft 1.17.1 Release Candidate 2",
+      "type": "snapshot",
+      "version": "1.17.1-rc2",
+      "image": {
+        "url": "/images/4EYs2N8F9Kq00HgfNa1E8e-Minecraft1.17.1ReleaseCandidate2.jpeg",
+        "title": "Minecraft 1.17.1 Release Candidate 2"
+      },
+      "body": "<p>A second Release Candidate for Minecraft Java Edition 1.17.1 is now available in the launcher, fixing some critical issues. If nothing critical is found, we expect this to be released as the full version of 1.17.1 on Tuesday, July 6th.</p>\n<h1>The Caves &#x26; Cliffs Preview</h1>\n<p>Download the <a href=\"https://launcher.mojang.com/v1/objects/622bf0fd298e1e164ecd05d866045ed5941283cf/CavesAndCliffsPreview.zip\" target=\"_blank\" rel=\"noopener noreferrer\">latest datapack</a>.</p>\n",
+      "id": "2796AyBVjrUlboxfukPjxu",
+      "contentPath": "javaPatchNotes/2796AyBVjrUlboxfukPjxu.json"
+    },
+    {
       "title": "Minecraft 1.17.1 Release Candidate 1",
       "type": "snapshot",
       "version": "1.17.1-rc1",
